@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeEmulator", "MakeEmulator\MakeEmulator.csproj", "{E78AD568-C183-44F2-87D7-6F13390DD044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeEmulator.Tests", "MakeEmulator.Tests\MakeEmulator.Tests.csproj", "{FA852ED8-3BA2-482B-9528-3A07CFB759E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E78AD568-C183-44F2-87D7-6F13390DD044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78AD568-C183-44F2-87D7-6F13390DD044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78AD568-C183-44F2-87D7-6F13390DD044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78AD568-C183-44F2-87D7-6F13390DD044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA852ED8-3BA2-482B-9528-3A07CFB759E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA852ED8-3BA2-482B-9528-3A07CFB759E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA852ED8-3BA2-482B-9528-3A07CFB759E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA852ED8-3BA2-482B-9528-3A07CFB759E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
